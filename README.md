@@ -55,15 +55,11 @@ Terminal uniquement (interface texte)
                      \\========//
 Ce projet a été réalisé par les membres de l’équipe Rush01 :
 
-Mahamadou Habibou chargé de 
+Mahamadou Amine MS
 
-Epiphane Nicoue chargé de
+Epiphane Nicoue
 
-Mamoudou Souley chargé de
-
-Boureima Souley chargé de
-
-Mariam              :absente
+Abdoul wahabou 
 
 
                       NOTER BIEN ::
