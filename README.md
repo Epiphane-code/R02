@@ -61,12 +61,8 @@ Epiphane Nicoue chargé de la fonction pour fonction pour ajouter un etudiant à
 
 Mamoudou Souley chargé de la fonction pour Trier et afficher,fonction pour supprimer un étudiant de la liste et le README
 
-Boureima Souley chargé de
 
-Mariam              :absente
-
-
-                      NOTER BIEN ::
+     NOTER BIEN ::
                      \\===========//
 ====L'INTERFACE a été élaborée par les membres du Rush03 : Mahamadou Habibou,
 Epiphane Nicoue et Mamoudou Souley , en live . ET l'apport de tout un chacun a été revu et modifié si besoin , dans le but d'avoir un travail d'équipe et comprehensible .
